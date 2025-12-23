@@ -1,5 +1,8 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
 
+SYED NIYAZ A
+212225060284
+
 **AIM:**
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
